@@ -1,2 +1,2 @@
 # PythonC
-Am learning python
+I am learning python 😎
