@@ -1,2 +1,2 @@
 # PythonC
-Am applying python
+Am learning python
